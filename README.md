@@ -1,2 +1,1 @@
-# flask-restapi-inventory
-flask-restapi-inventory
+# flask_stock
